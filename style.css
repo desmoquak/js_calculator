@@ -54,6 +54,6 @@ body {
 }
 
 .output .current-operand {
-	color: rgb(176, 191, 26), 0.75;
+	color: rgba(255, 255, 255, 0.95);
 	font-size: 2.5rem;
 }
